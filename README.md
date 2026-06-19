@@ -2,7 +2,7 @@ ESPHome custom firmware for the smart plug Mill WIFI gen. 3
 
 First of all, i am no programmer so bare with me.
 
-I bougt this smart plug second hand from a thrift store and it did not perform as i expected. It connected just fine but lost the WIFI after a while. The firmware upgrade in the Mill app couldn't complete.
+I bougt this smart plug second hand from a thrift store and it did not perform as i expected. It connected just fine to the app but lost the WIFI after a while. The firmware upgrade in the Mill app couldn't complete. Overall it was a bit unstable.
 
 So i opened it and found a ESP32 wroom inside. Ofcourse i had to adapt it to ESPHome.
 
